@@ -1,5 +1,16 @@
 header{
-    border: 3px solid black;
+    height: 300px; 
 }
-.top-header{background: red;}
-.bottom-header{background: lightblue;}
+.bottom-header{
+    height: 70%;
+}
+.logo{
+    height: 100%;
+}
+.logo-a{
+    display: inline-block;
+    height: 100%;
+}
+.logo_img{
+    height: 100%;
+}
